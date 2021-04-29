@@ -9,7 +9,7 @@ export const Header: FC = () => {
             <Center>
                 <Logo>
                     <Link href="/">
-                        <a>Wha's Next?!</a>
+                        <a>Wha's Next2?!</a>
                     </Link>
                 </Logo>
             </Center>
